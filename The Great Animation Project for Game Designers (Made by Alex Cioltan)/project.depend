@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1403716274 source:c:\documents and settings\alexx\the great animation project for game designers (made by alex cioltan)\project.cpp
+	<cstdio>
+	<cstring>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+
